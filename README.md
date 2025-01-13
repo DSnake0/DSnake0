@@ -111,12 +111,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsnake0&" alt="GitHub Streak" />
 </p>
 
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  h1, h3, p {
-    animation: fadeIn 1s ease-in-out;
-  }
-</style>
