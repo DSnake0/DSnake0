@@ -111,3 +111,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsnake0&" alt="GitHub Streak" />
 </p>
 
+
+![snake gif](https://github.com/DSnake0/DSnake0/blob/output/github-snake-dark.svg)
