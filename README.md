@@ -111,8 +111,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsnake0&" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-  
-</div>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
