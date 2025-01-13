@@ -105,9 +105,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsnake0&show_icons=true&locale=en" alt="dsnake0" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsnake0&" alt="dsnake0" />
-</p>
-
-
 ###
