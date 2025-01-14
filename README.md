@@ -109,7 +109,7 @@
 
 <p align="center">
   <img align="center" 
-     src="https://github-readme-streak-stats.herokuapp.com/?user=dsnake0&theme=black&hide_border=true" 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=dsnake0&theme=radical&hide_border=true" 
      alt="GitHub Streak Stats" />
 </p>
 
