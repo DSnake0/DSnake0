@@ -115,7 +115,7 @@
 
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=DSnake0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DSnake0&theme=dark&hide_border=false)
 
 </div>
 
@@ -124,6 +124,7 @@
   ![snake gif](https://github.com/DSnake0/DSnake0/blob/output/github-snake-dark.svg)
   
 </div>
+
 
 
 
