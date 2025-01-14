@@ -116,7 +116,7 @@
 </div>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DSnake0%20&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DSnake0%20&theme=dark)](https://git.io/streak-stats)
 
 <div align="center">
   
