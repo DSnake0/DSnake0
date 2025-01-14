@@ -101,23 +101,23 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h3 align="left">Languages Used:</h3>
-<p align="center">
+<div align="center">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DSnake0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   
  ![](https://github-readme-stats.vercel.app/api?username=DSnake0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-</p>
+</div>
 
 
-<p align="center">
+<div align="center">
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DSnake0&theme=dark&hide_border=false)<br/>
 
-</p>
+</div>
 
 <div align="center">
   
