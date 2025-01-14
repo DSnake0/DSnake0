@@ -108,7 +108,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsnake0&" alt="GitHub Streak" />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  
 </p>
 
 <div align="center">
