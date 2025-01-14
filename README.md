@@ -98,19 +98,25 @@
 </p>
 <br><br>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h3 align="left">Languages Used:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnake0&layout=compact&theme=white" alt="Top Languages" />
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DSnake0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsnake0&show_icons=true&locale=en" alt="GitHub Stats" />
+  
+ ![](https://github-readme-stats.vercel.app/api?username=DSnake0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </p>
 
+
 <p align="center">
-  <img align="center" 
-     src="https://github-readme-streak-stats.herokuapp.com/?user=dsnake0&theme=radical&hide_border=true" 
-     alt="GitHub Streak Stats" />
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=DSnake0&theme=dark&hide_border=false)<br/>
+
 </p>
 
 <div align="center">
@@ -118,4 +124,6 @@
   ![snake gif](https://github.com/DSnake0/DSnake0/blob/output/github-snake-dark.svg)
   
 </div>
+
+
 
