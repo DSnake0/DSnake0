@@ -115,7 +115,9 @@
 
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=DSnake0&theme=dark&hide_border=false)
+<img align="center" 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=dsnake0&theme=dark&hide_border=true" 
+     alt="GitHub Streak Stats" />
 
 </div>
 
