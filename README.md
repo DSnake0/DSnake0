@@ -118,7 +118,6 @@
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=DSnake0&theme=dark)](https://git.io/streak-stats)<br/>
-
 </div>
 
 <div align="center">
