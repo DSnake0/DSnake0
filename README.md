@@ -115,10 +115,10 @@
  ![](https://github-readme-stats.vercel.app/api?username=DSnake0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </div>
 
-<div align="center">
-  
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DSnake0"/></a>
-</div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DSnake0&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DSnake0&theme=default" />
+</picture>
 
 <div align="center">
   
