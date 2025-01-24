@@ -117,7 +117,7 @@
 
 <div align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DSnake0"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dsnake0"/></a>
 
 </div>
 
