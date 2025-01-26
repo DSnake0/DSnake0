@@ -116,6 +116,7 @@
 </div>
 
 <div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DSnake0&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=DSnake0&theme=default" />
