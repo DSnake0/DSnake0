@@ -110,12 +110,6 @@
 
 </div>
 
-  <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DSnake0&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
-  <a href="https://github.com/DSnake0/DSnake0"><img alt="DSnake0's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DSnake0&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-  <img src="https://wakatime.com/share/@DSnake0/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
-  </div>
-
 <div align="center">
   
  ![](https://github-readme-stats.vercel.app/api?username=DSnake0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
