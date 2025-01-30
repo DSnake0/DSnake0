@@ -103,8 +103,9 @@
 </div>
 
 <div align="center">
-  
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSnake0&theme=shadow_blue&hide_border=false&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&include_all_commits=false&count_private=false)
+    <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=DSnake0&rank_icon=github&&theme=shadow_blue&hide_border=false&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&custom_title=GitHub⠀Stats&show_icons=true"/>     
+    </p>
 </div>
 
 <div align="center">
@@ -112,17 +113,30 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=DSnake0&theme=shadow_blue&hide_border=false&ring=00abf0&fire=00abf0&currStreakLabel=00abf0&sideNums=00abf0&sideLabels=00abf0&dates=DEDEDE&stroke=00abf0&bg_color=00000000&text_color=DEDEDE)](https://git.io/streak-stats)
   
 </div>
+<br>
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DSnake0&theme=shadow_blue&hide_border=false&title_color=00abf0&bg_color=00000000&text_color=DEDEDE)](https://wakatime.com/)
-
+  <div align="center">
+  <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  </div>
+<br>
 
 <div align="center">
   
   ![snake gif](https://github.com/DSnake0/DSnake0/blob/output/github-snake-dark.svg?color_snake=00abf0&color_dots=DEDEDE)
   
 </div>
+<br>
 
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DSnake0}/count.svg" /></p> 
+</div>
+<br>
+</details>
+<div align="center">
+<br>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
+</div>
 
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
