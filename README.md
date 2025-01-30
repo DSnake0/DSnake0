@@ -113,11 +113,15 @@
   
 </div>
 
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DSnake0&theme=shadow_blue&hide_border=false&title_color=00abf0&bg_color=00000000&text_color=DEDEDE)](https://wakatime.com/)
+
+
 <div align="center">
   
-  ![snake gif](https://github.com/DSnake0/DSnake0/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/DSnake0/DSnake0/blob/output/github-snake-dark.svg?color_snake=00abf0&color_dots=DEDEDE)
   
 </div>
+
 
 
 
