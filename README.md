@@ -109,7 +109,8 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=DSnake0&theme=shadow_blue&hide_border=false&title_color=00abf0&bg_color=00000000&text_color=DEDEDE)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DSnake0&theme=shadow_blue&hide_border=false&ring=00abf0&fire=00abf0&currStreakLabel=00abf0&sideNums=00abf0&sideLabels=00abf0&dates=DEDEDE&stroke=00abf0&bg_color=00000000&text_color=DEDEDE)](https://git.io/streak-stats)
+  
 </div>
 
 <div align="center">
