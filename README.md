@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">A passionate Front-End-Developer & Cyber Security Engineer from Pakistan...</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dsnake0&label=Profile%20views&color=0e75b6&style=flat" alt="dsnake0" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dsnake0" alt="dsnake0" />
-  </a>
-</p>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Abdul+Rafay" alt="Typing SVG" /></a>
+</div> 
+<br>
 
 <p align="left">
   <a href="https://twitter.com/" target="blank">
@@ -24,8 +18,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/DSnake0](https://github.com/DSnake0)
 - 💬 Ask me about **HTML, CSS, BootStraps, TailwindCss, JS, Sass, React JS & Linux etc...**
 - 📫 How to reach me **abdulrafay008877@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdul-rafay-60b8b432b/](https://www.linkedin.com/in/abdul-rafay-60b8b432b/)
-- ⚡ Fun fact **I am not funny!**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +32,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul rafay" height="30" width="40" />
   </a>
 </p>
-
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -92,6 +85,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
 </p>
+<br>
 
 <h3 align="left">Support:</h3>
 <p>
@@ -100,26 +94,22 @@
   </a>
 </p>
 <br><br>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
 
 <h3 align="left">Languages Used:</h3>
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DSnake0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DSnake0&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 <div align="center">
   
- ![](https://github-readme-stats.vercel.app/api?username=DSnake0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api?username=DSnake0&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </div>
 
 <div align="center">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DSnake0&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DSnake0&theme=default" />
-</picture>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=DSnake0&theme=shadow_blue&hide_border=true&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border=00abf0)
 </div>
 
 <div align="center">
