@@ -122,7 +122,6 @@
 <div align="center">
   
   ![snake gif](https://github.com/DSnake0/DSnake0/blob/output/github-snake-dark.svg?color_snake=00abf0&color_dots=DEDEDE)
-  
 </div>
 <br>
 
