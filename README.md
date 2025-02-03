@@ -100,6 +100,8 @@
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploitEngineer&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExploitEngineer&hide=css,html&layout=compact&langs_count=10)
+
 </div>
 
 <div align="center">
@@ -109,7 +111,7 @@
 </div>
 
 <div align="center">
-  
+    
 [![GitHub Streak](https://streak-stats.demolab.com?user=ExploitEngineer&theme=shadow_blue&hide_border=false&ring=00abf0&fire=00abf0&currStreakLabel=00abf0&sideNums=00abf0&sideLabels=00abf0&dates=DEDEDE&stroke=00abf0&bg_color=00000000&text_color=DEDEDE)](https://git.io/streak-stats)
 </div>
 <br>
